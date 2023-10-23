@@ -1,0 +1,21 @@
+.food_image {
+    height: 300px;
+    width: auto;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients {
+    background-color: rgb(232,232,232);
+}
+
+p {
+    background-color: rgb(248,248,248);
+}
+
+
+.steps {
+    background-color: rgb(216,216,216);
+}
